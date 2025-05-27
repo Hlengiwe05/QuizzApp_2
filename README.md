@@ -24,6 +24,15 @@ Kotlin progamming languge was used for this app
 Android Studio was used for this app
 Android SDK was used
 
+Link to YouTube video
+https://youtu.be/AWxdq9cXWRg
+
+Compiler
+Hlengiwe Ngwane 
+Student Number ST10489353
+
+References
+Liehan Els : https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFh3UGplRWxlWlpQQ1M5dUNZU29EV2plTE8wd3xBQ3Jtc0ttd1gzQTA4OElsRGJQbEVYcXNfQVk2U2RhOXIyXzNIcDA4bnNKWmEwcGpVb3hqRzdoMnJnV0tvNjJtc05tZkw3UGJOUDdpa2F4NUdxVUVvVFpZdm5HbHl1dTBHdnp5aHZJcG1IOGpUVG9ULUg5TlhERQ&q=https%3A%2F%2Fgithub.com%2Fliehanels%2FQuizzApp&v=K13fR2RHTak
 How to open and use the app
 Open on Android Studio
 Select "Existing Projest"
