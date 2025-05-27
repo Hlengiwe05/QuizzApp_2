@@ -17,4 +17,17 @@ Third screen- Score screen
 Displays total score from the quiz
 Has a button to end the quiz
 
-GitHub code link
+GitHub code link 
+https://github.com/Hlengiwe05/QuizzApp_2.git
+
+Kotlin progamming languge was used for this app
+Android Studio was used for this app
+Android SDK was used
+
+How to open and use the app
+Open on Android Studio
+Select "Existing Projest"
+
+Open Blustacks and run an emulator
+Press the run icon to launch the app
+Go back to Bluestacks to use the app
